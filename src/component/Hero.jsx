@@ -94,7 +94,7 @@ const Hero = () => {
 
                             ))}
                         </div>
-                        
+
                     </div>
                 </div>
             </section>
@@ -132,7 +132,7 @@ const Hero = () => {
                                 Produce work by locks in person business visionaries in opening of PMBJP Kendra.
                             </li>
                         </ul>
-                        
+
                     </div>
 
                     <div className="md:w-1/2 w-full">
@@ -174,23 +174,23 @@ const Hero = () => {
                                     Each group of sedate is tried at research facilities authorize by ‘National Accreditation Board for Testing and Calibration Research facilities (NABL)’ for guaranteeing best quality.
                                 </li>
                             </ul>
-                           
+
                         </div>
 
                         {/* Right: YouTube Video */}
-                       <div className="md:w-1/2 w-full">
-  <div className="aspect-video">
-    <iframe
-      className="w-full h-full"
-      src="https://www.youtube.com/embed/f0-hB4G_mVU"
-      title="जन औषधि केंद्रों पर क्यों मिलती हैं सस्ती दवाएं, जानें कितनी होती हैं असरदार"
-      frameBorder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerPolicy="strict-origin-when-cross-origin"
-      allowFullScreen
-    ></iframe>
-  </div>
-</div>
+                        <div className="md:w-1/2 w-full">
+                            <div className="aspect-video">
+                                <iframe
+                                    className="w-full h-full"
+                                    src="https://www.youtube.com/embed/f0-hB4G_mVU"
+                                    title="जन औषधि केंद्रों पर क्यों मिलती हैं सस्ती दवाएं, जानें कितनी होती हैं असरदार"
+                                    frameBorder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                    referrerPolicy="strict-origin-when-cross-origin"
+                                    allowFullScreen
+                                ></iframe>
+                            </div>
+                        </div>
 
                     </div>
                 </section>
