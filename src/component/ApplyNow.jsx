@@ -187,8 +187,8 @@ const ApplyNowComp = ({ closeModal }) => {
             className="w-full p-3 border border-gray-300 rounded focus:outline-none bg-white focus:ring-2 focus:ring-blue-500"
           >
             <option value="">Intrested In</option>
-            <option value="1 HP">Outlet</option>
-            <option value="2 HP">Dealership</option>
+            <option value="Outlet">Outlet</option>
+            <option value="Dealership">Dealership</option>
             
           </select>
 
